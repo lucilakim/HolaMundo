@@ -11,5 +11,6 @@ public class HolaMundo {
 		System.out.println("Esta es una línea modificada desde GitHub!");
 		System.out.println("Esta es una nueva impresion desde nuestro repo local.");
 		System.out.println("Esta es una nueva impresion desde GitHub!.");
+		System.out.println("Esta es una nueva impresion desde nuestro repo local.");
 	}
 }
