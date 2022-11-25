@@ -8,6 +8,6 @@ public class HolaMundo {
 		HolaMundo hm = new HolaMundo();
 		hm.saludar();
 	
-		System.out.println("Cambio de mensaje desde la rama dev");
+		System.out.println("Esta es una línea modificada desde GitHub!");
 	}
 }
